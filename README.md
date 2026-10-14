@@ -1,6 +1,6 @@
 # Shark Server
 
-<img src="https://wx3.sinaimg.cn/mw690/0060lm7Tly1g0nfnjjxbbj30sg0sg757.jpg" width=200px height=200px />
+<img src="https://shark.app.xiaobingkj.com/_next/static/media/appicon.035yc9hh7khn7.png" width=200px height=200px />
 
 [![Go Version](https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go)](https://golang.org)
 [![Docker Automated build](https://img.shields.io/docker/automated/finab/bark-server.svg)](https://hub.docker.com/r/finab/bark-server)
